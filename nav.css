@@ -1,0 +1,32 @@
+.m-nav{
+    display: none;
+    width: 25px;
+    height: 25px;
+    background: url('./img/menu.png') no-repeat;
+}
+.nav-list{
+    display: flex;
+}
+
+.nav-list > li{
+    padding-right: 30px;
+}
+
+.nav-list > li > a:hover{
+    border-bottom: 2px solid #5094f2;
+    padding-bottom: 30px;
+}
+
+.nav-list > li > a:active{    
+    color: #5094f2;
+}
+
+@media screen and (max-width: 640px) {
+    .nav-list{
+        display: none;
+    }
+    .m-nav{
+        display: block;
+    }
+}
+

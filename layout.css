@@ -1,0 +1,51 @@
+
+nav{
+
+}
+
+.header-slider{
+
+}
+
+.layout-cart{
+    max-width: 960px;
+    margin: 0 auto;
+
+}
+
+.footer{
+
+}
+
+.cart-layout{
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.nav-block{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 960px;
+    margin: 0 auto;
+    height: 89px;
+}
+
+.shop-cart-layout{
+    margin: 50px 0;
+}
+
+footer{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.slider-items{
+    position: relative;
+}
+
+.header-slider{
+    margin-bottom: 5%;
+}
+

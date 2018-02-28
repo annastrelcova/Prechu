@@ -1,0 +1,15 @@
+.shop-cart-img{
+    width: 50%;
+}
+
+.shop-cart-text{
+    width: 50%;
+}
+
+.shop-cart-img>h2{
+    padding-bottom: 30px;
+}
+
+.shop-cart-text>h3{
+    padding-bottom: 20px;
+}
